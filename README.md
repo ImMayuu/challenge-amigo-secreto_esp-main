@@ -12,10 +12,10 @@ Hola, Bienvenido a mi proyecto esta escrito en JavaScript su principal objetivo 
 ## 🖥️ Preview
 
 📸 **Sin nombres**  
-![Cuando no pones nada](challenge-amigo-secreto_esp-main\videos\listo.gif)
+![sinDatos](https://github.com/user-attachments/assets/8a23cb78-c836-49d1-9516-659a681b9d1a)
 
 📸 **Sorteo de un amigo secreto:**  
-![Sorteo realizado](challenge-amigo-secreto_esp-main\videos\listo.gif)
+![listo](https://github.com/user-attachments/assets/f02ba81b-2fab-4d46-8e18-ab23d7627eaa)
 
 ## 📌 Tecnologías Usadas
 
